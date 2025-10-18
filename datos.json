@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Chile en palito",
+    "categoria": "Food Design & Diseño Gráfico",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/chileenpalito.webp",
+    "alt": "Food Design"
+  },
+  {
+    "titulo": "Pigmento de cúrcuma",
+    "categoria": "Investigación",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/proyectocurcuma.webp",
+    "alt": "Experimentación"
+  },
+  {
+    "titulo": "AZIMUT",
+    "categoria": "Diseño Editorial y Branding",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/azimut.webp",
+    "alt": "Editorial"
+  },
+  {
+    "titulo": "BIOCO",
+    "categoria": "Diseño Gráfico, Branding",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/bioestimulante.webp",
+    "alt": "Sustentabilidad"
+  },
+  {
+    "titulo": "Kupsha",
+    "categoria": "Diseño textil",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/kupsha.webp",
+    "alt": "Textil"
+  },
+  {
+    "titulo": "Filogénico",
+    "categoria": "Diseño Industrial",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/cuchillo.webp",
+    "alt": "Industrial"
+  },
+  {
+    "titulo": "'Desconocido'",
+    "categoria": "Diseño Editorial",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/desconocido.webp",
+    "alt": "Editorial"
+  },
+  {
+    "titulo": "'Yo recuerdo'",
+    "categoria": "Diseño Gráfico y Editorial",
+    "imagen": "https://FloSegretti.github.io/clase-10/img/postal.webp",
+    "alt": "Editorial"
+  }
+]
